@@ -1,5 +1,6 @@
 class Solution {
 public:
+    // Sk Alamin Hossain
     int numDistinct(string s, string t) {
         int n=s.size(), m=t.size();
         if(m>n) return 0;
